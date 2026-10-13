@@ -1,1 +1,0 @@
-{"file":"/mnt/c/Users/matia/fisioterapia-app/apps/backend/src/test/setup.ts","mappings":";AAAA,OAAO,CAAC,GAAG,CAAC,UAAU,GAAG,iBAAiB,CAAC","names":[],"sources":["/mnt/c/Users/matia/fisioterapia-app/apps/backend/src/test/setup.ts"],"sourcesContent":["process.env.JWT_SECRET = \"test-jwt-secret\";\n"],"version":3}

@@ -1,7 +1,0 @@
-7c3415b900f1b2b5a2befe498c2332eb
-module.exports = {
-  __esModule: true,
-  default: {
-    launch: jest.fn(),
-  },
-};
