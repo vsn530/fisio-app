@@ -271,12 +271,6 @@ npm run dev --workspace=apps/backend   # http://localhost:4000
 npm run dev --workspace=apps/frontend  # http://localhost:3000
 ```
 
-### Demo credentials
-```
-Email:    demo@fisio.app
-Password: demo12345
-```
-
 ### Environment variables
 
 ```env
